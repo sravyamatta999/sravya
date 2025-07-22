@@ -1,4 +1,4 @@
-# sravya
+# Sravya
 <h1 align="center"> Greetings, I am Sravya Matta </h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Languages-Python%20|%20C++%20|%20C%20|%20Java-blue" alt="Languages">
