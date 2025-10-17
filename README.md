@@ -4,22 +4,21 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Languages-Python%20|%20Java%20|%20C-blue" alt="Languages">
-  <img src="https://img.shields.io/badge/Domain-AI%20|%20Robotics%20|%20Cloud%20|%20Full%20Stack-orange" alt="Domain">
+  <img src="https://img.shields.io/badge/Domain-Robotics%20|%20Cloud%20|%20Full%20Stack-orange" alt="Domain">
   <img src="https://img.shields.io/badge/Focus-Problem%20Solving%20|%20Innovation%20|%20Learning%20New%20Things-brightgreen" alt="Focus">
 </p>
 
 ---
 
 ## 🚀 About Me
-I’m a **4th-year B.Tech Computer Science student at PES University** passionate about building intelligent and scalable systems.  
-My experience spans **AI, robotics, and cloud-based applications**, integrating technologies like **ROS 2, TensorFlow, YOLO, React, Node.js, and GCP**.  
-With a solid foundation in **Python, Java, and Data Structures & Algorithms**, I thrive on exploring new tools and solving real-world problems through technology.
+I’m a **4th-year B.Tech Computer Science student at PES University** passionate about building efficient and scalable systems.  
+My interests lie in **Robotics, Cloud Computing, and Full-Stack Development**, with experience using **ROS 2, React, Node.js, and GCP**.  
+With a solid foundation in **Python, Java, and Data Structures & Algorithms**, I enjoy solving real-world challenges through technology and collaboration.
 
 ---
 
 ## 🧠 Domains of Interest
 - 🤖 **Robotics & Simulation:** ROS 2, Gazebo, RViz, URDF/Xacro  
-- 🧩 **Machine Learning & AI:** TensorFlow, Scikit-learn, YOLOv11, ConvLSTM  
 - ☁️ **Cloud & DevOps:** AWS, GCP, Docker, Firebase, BigQuery  
 - 💻 **Full-Stack Development:** React, Node.js, HTML, CSS, Firebase  
 - 🧮 **Core CS Concepts:** Operating Systems, CN, DBMS, Cloud Computing, Web Technology  
@@ -28,23 +27,22 @@ With a solid foundation in **Python, Java, and Data Structures & Algorithms**, I
 
 ## 💼 Featured Projects
 - **Teleoperated Robotic Arm** — ROS 2 simulation using Gazebo & RViz for motion control.  
-- **Voice-Based Parkinson’s Detection** — ConvLSTM-Transformer model achieving 93.2% accuracy.  
 - **Cloud Grievance Redressal System** — YOLOv11 + Firebase + GCP for civic issue automation.  
 - **Music Playlist Generator** — Data structure-based playlist management in C.  
-- **Book Review System** — Full-stack platform enabling reviews, chats, and admin management.
+- **Book Review System** — Full-stack platform enabling reviews, chats, and admin management.  
+- **Capstone Project – Aircraft Recognition** — Image-based aircraft detection using YOLO and Python.  
 
 ---
 
 <h3 align="center">🧰 Languages and Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,react,nodejs,tensorflow,ros,gcp,aws,docker,git,github,mysql,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,react,nodejs,ros,gcp,aws,docker,git,github,mysql,html,css,js" />
 </p>
 
 ---
 
 ## 🏅 Certifications
 - AWS Certified Cloud Practitioner – Amazon Web Services  
-- Microsoft Certified: Azure Fundamentals – Microsoft  
 - GitHub Foundations Certification – GitHub  
 - Web Development Bootcamp – Udemy  
 - Get Started with Jira Work Management – Atlassian  
